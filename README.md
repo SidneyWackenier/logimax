@@ -11,8 +11,7 @@ This project was a **collaborative group effort**, and this repository highlight
 - [About the Project](#about-the-project)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Contributions](#contributions)
-
+  
 ---
 
 ## About the Project
@@ -47,11 +46,6 @@ As part of the collaborative effort, my main responsibilities included:
 - **Data Visualization:** VegaLite  
 - **Version Control:** Git & GitHub  
 - **Hosting:** Render  
-
----
-
-## Contributions
-This was a **group project**, and my contributions included:
 
 - Backend development with Node.js/Express  
 - MongoDB integration and database setup  
