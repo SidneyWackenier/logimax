@@ -45,11 +45,4 @@ As part of the collaborative effort, my main responsibilities included:
 - **Database:** MongoDB  
 - **Data Visualization:** VegaLite  
 - **Version Control:** Git & GitHub  
-- **Hosting:** Render  
-
-- Backend development with Node.js/Express  
-- MongoDB integration and database setup  
-- API design and endpoint implementation  
-- Authentication and role-based access control  
-- Data visualization using VegaLite  
-- TypeScript integration for strict type safety
+- **Hosting:** Render 
